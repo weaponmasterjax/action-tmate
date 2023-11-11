@@ -3,6 +3,7 @@
 [![GitHub Actions](https://github.com/mxschmitt/action-tmate/workflows/Node.js%20CI/badge.svg)](https://github.com/mxschmitt/action-tmate/actions)
 [![GitHub Marketplace](https://img.shields.io/badge/GitHub-Marketplace-green)](https://github.com/marketplace/actions/debugging-with-tmate)
 
+
 This GitHub Action offers you a direct way to interact with the host system on which the actual scripts (Actions) will run.
 
 ## Features
